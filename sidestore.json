@@ -16,12 +16,12 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "1.2.2",
-          "buildVersion": "10202",
+          "version": "1.2.3",
+          "buildVersion": "10203",
           "date": "2026-10-26",
-          "localizedDescription": "Fix: casting to LG webOS and other DLNA TVs from the PC (short stream links, DLNA headers, fallbacks, clearer error messages).",
-          "downloadURL": "https://github.com/kyleee62/streamdock-iptv/releases/download/v1.2.2/StreamDock-IPTV-iOS-1.2.2.ipa",
-          "size": 1599010,
+          "localizedDescription": "Fix: casting to LG webOS TVs (tested on an LG G1) no longer reports an error while the TV is starting the stream.",
+          "downloadURL": "https://github.com/kyleee62/streamdock-iptv/releases/download/v1.2.3/StreamDock-IPTV-iOS-1.2.3.ipa",
+          "size": 1599012,
           "minOSVersion": "15.0"
         }
       ],
