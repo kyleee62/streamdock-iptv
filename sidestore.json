@@ -1,0 +1,37 @@
+{
+  "name": "StreamDock IPTV",
+  "identifier": "local.streamdock.iptv.source",
+  "sourceURL": "https://raw.githubusercontent.com/kyleee62/streamdock-iptv/main/sidestore.json",
+  "iconURL": "https://raw.githubusercontent.com/kyleee62/streamdock-iptv/main/icon.png",
+  "website": "https://github.com/kyleee62/streamdock-iptv",
+  "apps": [
+    {
+      "name": "StreamDock IPTV",
+      "bundleIdentifier": "local.streamdock.iptv",
+      "developerName": "kyleee62",
+      "subtitle": "Free, ad-free IPTV player",
+      "localizedDescription": "Free, ad-free IPTV player for Xtream Codes logins and M3U playlists, with a TV guide, catch-up, offline downloads, AirPlay and YouTube & Twitch.",
+      "iconURL": "https://raw.githubusercontent.com/kyleee62/streamdock-iptv/main/icon.png",
+      "tintColor": "3B82F6",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "buildVersion": "10200",
+          "date": "2026-10-26",
+          "localizedDescription": "New: YouTube & Twitch, data saver on mobile data, offline downloads of films/episodes, Chromecast from Android, in-app updates for the phone apps (Android installs the APK, iPhone via SideStore).",
+          "downloadURL": "https://github.com/kyleee62/streamdock-iptv/releases/download/v1.2.0/StreamDock-IPTV-iOS-1.2.0.ipa",
+          "size": 1599010,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "StreamDock connects to IPTV servers and AirPlay TVs on your local network."
+        }
+      }
+    }
+  ],
+  "news": []
+}
