@@ -16,12 +16,12 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "1.2.0",
-          "buildVersion": "10200",
+          "version": "1.2.1",
+          "buildVersion": "10201",
           "date": "2026-10-26",
-          "localizedDescription": "New: YouTube & Twitch, data saver on mobile data, offline downloads of films/episodes, Chromecast from Android, in-app updates for the phone apps (Android installs the APK, iPhone via SideStore).",
-          "downloadURL": "https://github.com/kyleee62/streamdock-iptv/releases/download/v1.2.0/StreamDock-IPTV-iOS-1.2.0.ipa",
-          "size": 1599010,
+          "localizedDescription": "Fix: casting from the PC now finds DLNA TVs such as LG webOS (C1/G1) when the PC also has a VPN or virtual network adapter.",
+          "downloadURL": "https://github.com/kyleee62/streamdock-iptv/releases/download/v1.2.1/StreamDock-IPTV-iOS-1.2.1.ipa",
+          "size": 1599009,
           "minOSVersion": "15.0"
         }
       ],
